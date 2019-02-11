@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Benua_21.Point">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEYAUAAAAAEAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Fractals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Benua_21.Fractal">
+    <Position X="2" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAACAQAAgABgAAIACAAAAAAAAABQAAAAACCAAA=</HashCode>
+      <FileName>Fractals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Benua_21.KochCurve">
+    <Position X="4.5" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fractals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Benua_21.HFractal">
+    <Position X="4.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fractals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Benua_21.CircleFractal">
+    <Position X="4.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fractals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Benua_21.Form1">
+    <Position X="8.75" Y="0.75" Width="1.75" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BACgAAKAECIIKBYEUAGIAAACAAAYAgAQAqARAnQCJAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Benua_21.Program">
+    <Position X="7" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
